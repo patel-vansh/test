@@ -29,4 +29,4 @@ _Italian Text_
 | Value | Value |
 
 ## Links
-[Link Name](https://github.com/patel-vansh/test/edit/main/README.md)
+[Link Name](https://github.com/patel-vansh/test)
