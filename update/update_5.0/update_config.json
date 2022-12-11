@@ -1,0 +1,207 @@
+{
+	"require_version": "4.7",
+	"directory": [],
+	"sql_file": "",
+	"files": [
+		{
+			"root_directory": "update/update_5.0/application/controllers/Admin.php",
+			"update_directory": "application/controllers/Admin.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/controllers/Home.php",
+			"update_directory": "application/controllers/Home.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/controllers/User.php",
+			"update_directory": "application/controllers/User.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/controllers/Api.php",
+			"update_directory": "application/controllers/Api.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/helpers/common_helper.php",
+			"update_directory": "application/helpers/common_helper.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/models/Api_instructor_model.php",
+			"update_directory": "application/models/Api_instructor_model.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/models/Crud_model.php",
+			"update_directory": "application/models/Crud_model.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/models/Lazyloaddata_model.php",
+			"update_directory": "application/models/Lazyloaddata_model.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/models/User_model.php",
+			"update_directory": "application/models/User_model.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/models/Api_model.php",
+			"update_directory": "application/models/Api_model.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/addon_add.php",
+			"update_directory": "application/views/backend/admin/addon_add.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/addons.php",
+			"update_directory": "application/views/backend/admin/addons.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/admin_revenue.php",
+			"update_directory": "application/views/backend/admin/admin_revenue.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/categories.php",
+			"update_directory": "application/views/backend/admin/categories.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/course_edit.php",
+			"update_directory": "application/views/backend/admin/course_edit.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/courses-server-side.php",
+			"update_directory": "application/views/backend/admin/courses-server-side.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/courses.php",
+			"update_directory": "application/views/backend/admin/courses.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/instructor_revenue.php",
+			"update_directory": "application/views/backend/admin/instructor_revenue.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/instructors.php",
+			"update_directory": "application/views/backend/admin/instructors.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/navigation.php",
+			"update_directory": "application/views/backend/admin/navigation.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/theme_settings.php",
+			"update_directory": "application/views/backend/admin/theme_settings.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/users.php",
+			"update_directory": "application/views/backend/admin/users.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/user/course_edit.php",
+			"update_directory": "application/views/backend/user/course_edit.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/user/navigation.php",
+			"update_directory": "application/views/backend/user/navigation.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/user/sales_report.php",
+			"update_directory": "application/views/backend/user/sales_report.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/category_wise_course_grid_layout.php",
+			"update_directory": "application/views/frontend/default/category_wise_course_grid_layout.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/category_wise_course_list_layout.php",
+			"update_directory": "application/views/frontend/default/category_wise_course_list_layout.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/course_page.php",
+			"update_directory": "application/views/frontend/default/course_page.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/courses_page.php",
+			"update_directory": "application/views/frontend/default/courses_page.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/home.php",
+			"update_directory": "application/views/frontend/default/home.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/includes_bottom.php",
+			"update_directory": "application/views/frontend/default/includes_bottom.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/includes_top.php",
+			"update_directory": "application/views/frontend/default/includes_top.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/logged_in_header.php",
+			"update_directory": "application/views/frontend/default/logged_in_header.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/my_messages.php",
+			"update_directory": "application/views/frontend/default/my_messages.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/my_wishlist.php",
+			"update_directory": "application/views/frontend/default/my_wishlist.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/reload_my_wishlists.php",
+			"update_directory": "application/views/frontend/default/reload_my_wishlists.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/shopping_cart.php",
+			"update_directory": "application/views/frontend/default/shopping_cart.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/shopping_cart_inner_view.php",
+			"update_directory": "application/views/frontend/default/shopping_cart_inner_view.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/wishlist_items.php",
+			"update_directory": "application/views/frontend/default/wishlist_items.php"
+		},
+		{
+			"root_directory": "update/update_5.0/assets/frontend/default/js/custom.js",
+			"update_directory": "assets/frontend/default/js/custom.js"
+		},
+		{
+			"root_directory": "update/update_5.0/assets/frontend/default/js/main.js",
+			"update_directory": "assets/frontend/default/js/main.js"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/admin_add.php",
+			"update_directory": "application/views/backend/admin/admin_add.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/admin_edit.php",
+			"update_directory": "application/views/backend/admin/admin_edit.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/admin_permission.php",
+			"update_directory": "application/views/backend/admin/admin_permission.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/admins.php",
+			"update_directory": "application/views/backend/admin/admins.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/coupon_add.php",
+			"update_directory": "application/views/backend/admin/coupon_add.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/coupon_edit.php",
+			"update_directory": "application/views/backend/admin/coupon_edit.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/backend/admin/coupons.php",
+			"update_directory": "application/views/backend/admin/coupons.php"
+		},
+		{
+			"root_directory": "update/update_5.0/application/views/frontend/default/compare.php",
+			"update_directory": "application/views/frontend/default/compare.php"
+		},
+		{
+			"root_directory": "update/update_5.0/system/database/DB_query_builder.php",
+			"update_directory": "system/database/DB_query_builder.php"
+		}
+	]
+}

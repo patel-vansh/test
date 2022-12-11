@@ -1,0 +1,62 @@
+########## DB Structure ##########
+-- paper_generator_standard
+- id: int(11), ai, primary key
+- standard: int(3)
+
+-- paper_generator_subject
+- id: int(11), ai, primary key
+- name: medium string
+#1,2- instruction: long string: list of instructions in multiple languages
+- standard_id: int(11)
+
+-- paper_generator_section
+- id: int(11), ai, primary key
+- name: medium string
+- max_questions: int(3)
+- max_or_questions: int(3)
+
+-- paper_generator_question
+- id: int(11), ai, primary key
+- section_id: int(11)
+#1- question: long string: list of questions in multiple languages
+#4- image: meduim string
+#1- answer: long string: list of answers in multiple languages
+#3- max_time: string
+- marks: int(3)
+
+
+-- paper_generator_question_papers
+- id: int(11), ai, primary key
+- question: medium string: list of question_id
+- instructor_id: int(11)
+- max_time: string
+- marks: int(3)
+- subject_id: int(11)
+- standard_id: int(11)
+#5- shuffle_mcq_options: int(2)
+##########
+
+##########
+-- What I think should be included or implemented:
+- Semester
+- Difficulty of question
+#1- Same Question, Answer and Instruction in multiple languages for multiple mediums
+#2- Instruction for Question Paper
+#3- Max time of question paper
+- Number of chapters to be added in Question Paper
+#4- Add picture in question
+#5- MCQ options shuffled when new Question Paper is generated
+- Question paper can be downloaded as pdf
+- Question paper should be same for one user until the user
+  generates a new question paper
+- Figure out (somehow) the code of a system to create 'OR' functionality
+- Get current date and time when Question Paper is generated
+- Print the Question Paper
+
+-- Finishing up steps:
+- Create table for question banks for all standard between 1-12
+
+- Make it AI. If we add one long answer then it would make
+  short questions (MCQ, FB, TF, or even QA) from that long answer
+  and suggest improvement in that answer.
+##########

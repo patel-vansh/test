@@ -1,0 +1,178 @@
+{
+  "require_version" : "5.6",
+  "directory": [
+    {
+        "name" : "assets/global/html2canvas"
+    }
+  ],
+  "sql_file": "",
+  "libraries": [
+    {
+      "root_directory": "update/update_5.7/application/libraries/phpqrcode.zip",
+      "update_directory": "application/libraries/phpqrcode.zip"
+    }
+  ],
+  "files": [
+    {
+        "root_directory" : "update/update_5.7/application/controllers/Admin.php",
+        "update_directory" : "application/controllers/Admin.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/controllers/Api.php",
+            "update_directory" : "application/controllers/Api.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/controllers/Home.php",
+            "update_directory" : "application/controllers/Home.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/controllers/Login.php",
+            "update_directory" : "application/controllers/Login.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/controllers/User.php",
+            "update_directory" : "application/controllers/User.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/helpers/common_helper.php",
+            "update_directory" : "application/helpers/common_helper.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/models/Api_model.php",
+            "update_directory" : "application/models/Api_model.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/models/Crud_model.php",
+            "update_directory" : "application/models/Crud_model.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/models/Email_model.php",
+            "update_directory" : "application/models/Email_model.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/models/Social_login_modal.php",
+            "update_directory" : "application/models/Social_login_modal.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/models/User_model.php",
+            "update_directory" : "application/models/User_model.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/course_add.php",
+            "update_directory" : "application/views/backend/admin/course_add.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/course_edit.php",
+            "update_directory" : "application/views/backend/admin/course_edit.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/message.php",
+            "update_directory" : "application/views/backend/admin/message.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/navigation.php",
+            "update_directory" : "application/views/backend/admin/navigation.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/system_settings.php",
+            "update_directory" : "application/views/backend/admin/system_settings.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/admin/drip_content_settings.php",
+            "update_directory" : "application/views/backend/admin/drip_content_settings.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/header.php",
+            "update_directory" : "application/views/backend/header.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/includes_top.php",
+            "update_directory" : "application/views/backend/includes_top.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/user/course_add.php",
+            "update_directory" : "application/views/backend/user/course_add.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/user/course_edit.php",
+            "update_directory" : "application/views/backend/user/course_edit.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/backend/user/navigation.php",
+            "update_directory" : "application/views/backend/user/navigation.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/footer.php",
+            "update_directory" : "application/views/frontend/default/footer.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/forgot_password.php",
+            "update_directory" : "application/views/frontend/default/forgot_password.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/home.php",
+            "update_directory" : "application/views/frontend/default/home.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/index.php",
+            "update_directory" : "application/views/frontend/default/index.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/logged_in_header.php",
+            "update_directory" : "application/views/frontend/default/logged_in_header.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/login.php",
+            "update_directory" : "application/views/frontend/default/login.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/menu.php",
+            "update_directory" : "application/views/frontend/default/menu.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/my_messages.php",
+            "update_directory" : "application/views/frontend/default/my_messages.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/preview_free_lesson.php",
+            "update_directory" : "application/views/frontend/default/preview_free_lesson.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/profile_menus.php",
+            "update_directory" : "application/views/frontend/default/profile_menus.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/frontend/default/sign_up.php",
+            "update_directory" : "application/views/frontend/default/sign_up.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/lessons/common_scripts.php",
+            "update_directory" : "application/views/lessons/common_scripts.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/lessons/course_content_sidebar.php",
+            "update_directory" : "application/views/lessons/course_content_sidebar.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/lessons/general_course_content_body.php",
+            "update_directory" : "application/views/lessons/general_course_content_body.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/lessons/lessons.php",
+            "update_directory" : "application/views/lessons/lessons.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/application/views/mobile/index.php",
+            "update_directory" : "application/views/mobile/index.php"
+    },
+    {
+            "root_directory" : "update/update_5.7/assets/lessons/css/custom.css",
+            "update_directory" : "assets/lessons/css/custom.css"
+    },
+    {
+            "root_directory" : "update/update_5.7/assets/global/html2canvas/html2canvas.min.js",
+            "update_directory" : "assets/global/html2canvas/html2canvas.min.js"
+    }
+
+  ]
+}

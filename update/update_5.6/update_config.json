@@ -1,0 +1,140 @@
+{
+  "require_version" : "5.5",
+  "directory": [
+    {
+        "name" : "assets/global/image"
+    }
+  ],
+  "sql_file": "",
+  "libraries": [],
+  "files": [
+    {
+        "root_directory" : "update/update_5.6/application/config/routes.php",
+        "update_directory" : "application/config/routes.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/controllers/Api.php",
+        "update_directory" : "application/controllers/Api.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/controllers/Api_instructor.php",
+        "update_directory" : "application/controllers/Api_instructor.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/controllers/User.php",
+        "update_directory" : "application/controllers/User.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/helpers/common_helper.php",
+        "update_directory" : "application/helpers/common_helper.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/helpers/multi_language_helper.php",
+        "update_directory" : "application/helpers/multi_language_helper.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/models/Api_instructor_model.php",
+        "update_directory" : "application/models/Api_instructor_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/models/Api_model.php",
+        "update_directory" : "application/models/Api_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/models/Crud_model.php",
+        "update_directory" : "application/models/Crud_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/models/User_model.php",
+        "update_directory" : "application/models/User_model.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/admin_edit.php",
+        "update_directory" : "application/views/backend/admin/admin_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/blog_add.php",
+        "update_directory" : "application/views/backend/admin/blog_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/blog_edit.php",
+        "update_directory" : "application/views/backend/admin/blog_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/category_edit.php",
+        "update_directory" : "application/views/backend/admin/category_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/enrol_student.php",
+        "update_directory" : "application/views/backend/admin/enrol_student.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/instructor_edit.php",
+        "update_directory" : "application/views/backend/admin/instructor_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/Session.php",
+        "update_directory" : "system/libraries/Session/Session.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/navigation.php",
+        "update_directory" : "application/views/backend/admin/navigation.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/admin/shortcut_enrol_student.php",
+        "update_directory" : "application/views/backend/admin/shortcut_enrol_student.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/user/blog_add.php",
+        "update_directory" : "application/views/backend/user/blog_add.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/user/navigation.php",
+        "update_directory" : "application/views/backend/user/navigation.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/user/blog_edit.php",
+        "update_directory" : "application/views/backend/user/blog_edit.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/backend/user/request_withdrawal.php",
+        "update_directory" : "application/views/backend/user/request_withdrawal.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/courses_page.php",
+        "update_directory" : "application/views/frontend/default/courses_page.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/forgot_password.php",
+        "update_directory" : "application/views/frontend/default/forgot_password.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/home.php",
+        "update_directory" : "application/views/frontend/default/home.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/index.php",
+        "update_directory" : "application/views/frontend/default/index.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/menu.php",
+        "update_directory" : "application/views/frontend/default/menu.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/profile_menus.php",
+        "update_directory" : "application/views/frontend/default/profile_menus.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/application/views/frontend/default/user_credentials.php",
+        "update_directory" : "application/views/frontend/default/user_credentials.php"
+    },
+    {
+        "root_directory" : "update/update_5.6/assets/global/image/no-preview-available.png",
+        "update_directory" : "assets/global/image/no-preview-available.png"
+    },
+    {
+        "root_directory" : "update/update_5.6/system/database/DB_query_builder.php",
+        "update_directory" : "system/database/DB_query_builder.php"
+    }
+  ]
+}
