@@ -6,7 +6,7 @@
 print("Python Code")
 ```
 ```java
-log.d("TAG", "Java Code")
+Log.d("TAG", "Java Code");
 ```
 
 > Quoted Line
